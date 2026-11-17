@@ -1,0 +1,301 @@
+CompanyName,CompanyNumber,CompanyStatus,IncorporationDate,Accounts.AccountCategory,Mortgages.NumMortCharges,Mortgages.NumMortOutstanding,SICCode.SicText_1,sic,sector
+HYDE LEA NURSING HOMES LIMITED,03993042,Active,15/05/2000,FULL,16,5,87100 - Residential nursing care facilities,87100,care
+GEORGE POTTER HOUSE LTD,06945111,Active,26/06/2009,MEDIUM,5,3,87100 - Residential nursing care facilities,87100,care
+AVERY HOMES (CANNOCK) LIMITED,04035160,Active,17/07/2000,FULL,10,2,87300 - Residential care activities for the elderly and disabled,87300,care
+NICHOLAS JAMES CARE HOMES LTD,04334712,Active,05/12/2001,GROUP,24,8,87100 - Residential nursing care facilities,87100,care
+AVERY HOMES RUGELEY LIMITED,06722337,Active,13/10/2008,FULL,3,1,87300 - Residential care activities for the elderly and disabled,87300,care
+NORTH BAY GROUP LTD,13292171,Active,25/03/2021,GROUP,2,2,87100 - Residential nursing care facilities,87100,care
+ENGLISH CARE LIMITED,05207492,Active,17/08/2004,FULL,5,2,87300 - Residential care activities for the elderly and disabled,87300,care
+RUDDINGTON HOMES LIMITED,01903864,Active,10/04/1985,MEDIUM,4,0,87300 - Residential care activities for the elderly and disabled,87300,care
+THE SKINNERS' ALMSHOUSE CHARITY,06801953,Active,26/01/2009,FULL,1,1,87300 - Residential care activities for the elderly and disabled,87300,care
+RANDOLPH HILL NURSING HOMES (SCOTLAND) LIMITED,SC284861,Active,16/05/2005,FULL,31,8,87100 - Residential nursing care facilities,87100,care
+ASPEN TOWER PROPCO 2 LIMITED,10500824,Active,29/11/2016,FULL,1,1,87300 - Residential care activities for the elderly and disabled,87300,care
+SHEFFCARE LIMITED,02538734,Active,11/09/1990,GROUP,35,13,87300 - Residential care activities for the elderly and disabled,87300,care
+MINEHOME LIMITED,03003054,Active,19/12/1994,FULL,9,0,87300 - Residential care activities for the elderly and disabled,87300,care
+WT CLEARWATER OPCO (BOWOOD) LIMITED,09090172,Active,17/06/2014,MEDIUM,4,0,87300 - Residential care activities for the elderly and disabled,87300,care
+THE MANOR COLLECTION LIMITED,03074927,Active,03/07/1995,FULL,11,4,87300 - Residential care activities for the elderly and disabled,87300,care
+PORTHAVEN PROPERTIES NO 2 LIMITED,08167504,Active,03/08/2012,FULL,23,3,87100 - Residential nursing care facilities,87100,care
+STONEHAVEN (HEALTHCARE) LTD,03650153,Active,15/10/1998,GROUP,16,12,87300 - Residential care activities for the elderly and disabled,87300,care
+PILGRIMS' FRIEND SOCIETY (RP),02001246,Active,18/03/1986,FULL,3,0,87100 - Residential nursing care facilities,87100,care
+ALMA CARE HOMES HOLYWELL LIMITED,10874579,Active,19/07/2017,GROUP,4,3,87100 - Residential nursing care facilities,87100,care
+COUNTRY COURT CARE HOMES LIMITED,03253377,Active,23/09/1996,FULL,22,1,87100 - Residential nursing care facilities,87100,care
+LONGFIELD HEALTHCARE LIMITED,05226732,Active,09/09/2004,FULL,4,1,87300 - Residential care activities for the elderly and disabled,87300,care
+TLC CARE HOMES LIMITED,03193730,Active,02/05/1996,FULL,14,2,87300 - Residential care activities for the elderly and disabled,87300,care
+CAMELOT CARE HOMES LIMITED,04362082,Active,28/01/2002,FULL,13,3,87100 - Residential nursing care facilities,87100,care
+MACKLIN CARE HOMES LIMITED,NI607069,Active,13/04/2011,MEDIUM,5,5,87300 - Residential care activities for the elderly and disabled,87300,care
+MREF V CARE HOLDINGS LIMITED,14156358,Active,07/06/2022,GROUP,1,1,87100 - Residential nursing care facilities,87100,care
+OAKMINSTER GROUP LIMITED,SC642222,Active,20/09/2019,GROUP,1,1,87100 - Residential nursing care facilities,87100,care
+HORSENDEN LAND 3 LIMITED,10770569,Active,15/05/2017,FULL,3,3,87100 - Residential nursing care facilities,87100,care
+WESTBURY CARE LIMITED,03185917,Active,15/04/1996,MEDIUM,9,1,87100 - Residential nursing care facilities,87100,care
+CARE WORLDWIDE (CARLTON) LIMITED,06147939,Active,09/03/2007,FULL,11,4,87300 - Residential care activities for the elderly and disabled,87300,care
+RENAISSANCE CARE (SCOTLAND) LIMITED,SC190022,Active,06/10/1998,GROUP,17,1,87300 - Residential care activities for the elderly and disabled,87300,care
+PRIMROSE HEALTHCARE LIMITED,04159746,Active,14/02/2001,FULL,2,2,87300 - Residential care activities for the elderly and disabled,87300,care
+PH MALPAS LIMITED,11571938,Active,17/09/2018,FULL,4,4,87300 - Residential care activities for the elderly and disabled,87300,care
+AIVEDA LIMITED,07191072,Active,16/03/2010,GROUP,6,2,87300 - Residential care activities for the elderly and disabled,87300,care
+COOPERSCROFT CARE HOME LIMITED,08290986,Active,13/11/2012,FULL,5,5,87100 - Residential nursing care facilities,87100,care
+EVERMORE CARE LIMITED,11625490,Active,16/10/2018,FULL,6,2,87100 - Residential nursing care facilities,87100,care
+PILGRIMS' FRIEND SOCIETY,03027071,Active,22/02/1995,FULL,7,6,87300 - Residential care activities for the elderly and disabled,87300,care
+ASHFIELD SPECIALIST CARE LIMITED,05352261,Active,03/02/2005,FULL,7,2,87100 - Residential nursing care facilities,87100,care
+HARTFORD CARE (SOUTHERN) LIMITED,06299049,Active,02/07/2007,FULL,6,1,87300 - Residential care activities for the elderly and disabled,87300,care
+COLTEN CARE LIMITED,02218757,Active,08/02/1988,GROUP,32,3,87300 - Residential care activities for the elderly and disabled,87300,care
+COLTEN CARE (1993) LIMITED,06587985,Active,08/05/2008,FULL,18,9,87300 - Residential care activities for the elderly and disabled,87300,care
+THE GRANGE CARE CENTRE (EASTINGTON) LIMITED,07589481,Active,04/04/2011,FULL,5,3,87300 - Residential care activities for the elderly and disabled,87300,care
+KAVANAGH HEALTH CARE LIMITED,06639468,Active,07/07/2008,FULL,4,1,87100 - Residential nursing care facilities,87100,care
+OURRIS PROPERTIES LIMITED,03864182,Active,25/10/1999,FULL,18,4,87100 - Residential nursing care facilities,87100,care
+ASPEN TOWER APHRODITE PROPCO LIMITED,04923339,Active,07/10/2003,FULL,15,1,87300 - Residential care activities for the elderly and disabled,87300,care
+SCIO HEALTHCARE LIMITED,04964072,Active,14/11/2003,FULL,9,0,87100 - Residential nursing care facilities,87100,care
+WCS CARE GROUP LIMITED,02713150,Active,01/05/1992,GROUP,28,15,87300 - Residential care activities for the elderly and disabled,87300,care
+GROVE CARE LIMITED,04740781,Active,22/04/2003,FULL,4,4,87300 - Residential care activities for the elderly and disabled,87300,care
+BANK HOUSE CARE HOMES LIMITED,04944349,Active,27/10/2003,MEDIUM,13,3,87100 - Residential nursing care facilities,87100,care
+SEYMOUR HOUSE RESIDENTIAL CARE HOMES LIMITED,04676103,Active,24/02/2003,MEDIUM,10,0,87300 - Residential care activities for the elderly and disabled,87300,care
+COLTEN CARE (2009) LIMITED,07687150,Active,29/06/2011,FULL,13,7,87300 - Residential care activities for the elderly and disabled,87300,care
+HILLCROFT NURSING HOMES LIMITED,03519853,Active,02/03/1998,FULL,3,2,87100 - Residential nursing care facilities,87100,care
+HAZELDENE HOUSE LTD,04539791,Active,19/09/2002,FULL,5,1,87100 - Residential nursing care facilities,87100,care
+LDC CARE COMPANY LTD,03819196,Active,04/08/1999,MEDIUM,23,13,87300 - Residential care activities for the elderly and disabled,87300,care
+SIGNATURE SENIOR LIFESTYLE OPERATIONS LTD,06827497,Active,23/02/2009,FULL,11,9,87300 - Residential care activities for the elderly and disabled,87300,care
+ST.CHRISTOPHERS(GLOSSOP)LIMITED,00600800,Active,18/03/1958,FULL,9,7,87300 - Residential care activities for the elderly and disabled,87300,care
+ARCHMORE CARE SERVICES LTD,08587090,Active,27/06/2013,FULL,12,9,87100 - Residential nursing care facilities,87100,care
+GRAY CARE GROUP LTD,12430106,Active,28/01/2020,GROUP,7,5,87300 - Residential care activities for the elderly and disabled,87300,care
+VIDA COURT LIMITED,11812304,Active,07/02/2019,FULL,3,3,87300 - Residential care activities for the elderly and disabled,87300,care
+NORTH BAY HOLDINGS LTD,10584125,Active,25/01/2017,GROUP,2,0,87100 - Residential nursing care facilities,87100,care
+ASPIRE LIVING LIMITED,02720295,Active,04/06/1992,FULL,1,1,87300 - Residential care activities for the elderly and disabled,87300,care
+MILESTONES TRUST,02011021,Active,16/04/1986,FULL,76,14,87300 - Residential care activities for the elderly and disabled,87300,care
+AKARI CARE LIMITED,07737949,Active,11/08/2011,FULL,8,0,87300 - Residential care activities for the elderly and disabled,87300,care
+DORMY CARE COMMUNITIES SOUTH LIMITED,10036025,Active,01/03/2016,FULL,2,2,87100 - Residential nursing care facilities,87100,care
+AXELBOND LIMITED,05569675,Active,21/09/2005,FULL,3,3,87100 - Residential nursing care facilities,87100,care
+RODWELL HOUSE LIMITED,05849911,Active,19/06/2006,FULL,5,5,87100 - Residential nursing care facilities,87100,care
+HEALTHCARE HOMES GROUP LIMITED,05507277,Active,13/07/2005,FULL,3,0,87100 - Residential nursing care facilities,87100,care
+WEST SOMERSET HOME (BLENHEIM LODGE) LIMITED,01375789,Active,28/06/1978,FULL,2,0,87100 - Residential nursing care facilities,87100,care
+HILLCREST MANOR LIMITED,09272708,Active,21/10/2014,FULL,10,2,87300 - Residential care activities for the elderly and disabled,87300,care
+JASMINE HEALTHCARE LIMITED,04974703,Active,24/11/2003,GROUP,7,4,87300 - Residential care activities for the elderly and disabled,87300,care
+ABBEY HEALTHCARE (WESTMORELAND) LIMITED,07883470,Active,15/12/2011,MEDIUM,4,2,87100 - Residential nursing care facilities,87100,care
+HALCYON LIVING LIMITED,08968867,Active,31/03/2014,GROUP,7,4,87100 - Residential nursing care facilities,87100,care
+YOUR CARE PROVIDER LTD,11041331,Active,01/11/2017,FULL,8,8,87300 - Residential care activities for the elderly and disabled,87300,care
+CCNH LIMITED,13515782,Active,16/07/2021,FULL,3,3,87100 - Residential nursing care facilities,87100,care
+BONDCARE (DARRINGTON) LIMITED,11939669,Active,11/04/2019,FULL,7,1,87300 - Residential care activities for the elderly and disabled,87300,care
+HC-ONE LIMITED,07712656,Active,20/07/2011,FULL,135,21,87100 - Residential nursing care facilities,87100,care
+COXWELL HOMES LIMITED,03002071,Active,15/12/1994,MEDIUM,5,1,87100 - Residential nursing care facilities,87100,care
+PLATINUM CARE LIMITED,03892187,Active,10/12/1999,GROUP,9,5,87300 - Residential care activities for the elderly and disabled,87300,care
+FC SUMMERHILL NH LTD,05044268,Active,13/02/2004,GROUP,12,2,87100 - Residential nursing care facilities,87100,care
+ASHDOWN CARE LIMITED,04161913,Active,16/02/2001,GROUP,9,4,87300 - Residential care activities for the elderly and disabled,87300,care
+CHURCHVIEW CARE LTD,05993142,Active,09/11/2006,FULL,4,0,87100 - Residential nursing care facilities,87100,care
+PROVISIO CARE GROUP LIMITED,13765160,Active,25/11/2021,GROUP,5,3,87100 - Residential nursing care facilities,87100,care
+OLYMPUS OPCO LTD,15914151,Active,23/08/2024,FULL,1,0,87100 - Residential nursing care facilities,87100,care
+ASPEN TOWER ROSE PROPCO LIMITED,04755842,Active,07/05/2003,FULL,14,0,87100 - Residential nursing care facilities,87100,care
+ROBERTS HOMES (NORTH WALES) LIMITED,03118990,Active,27/10/1995,GROUP,9,5,87100 - Residential nursing care facilities,87100,care
+GOLFHILL LIMITED,03043921,Active,10/04/1995,MEDIUM,7,4,87100 - Residential nursing care facilities,87100,care
+MARIGOLD MG1 LTD,01383875,Active,14/08/1978,FULL,26,2,87300 - Residential care activities for the elderly and disabled,87300,care
+FIRST CARE HOMES (CAMBRIDGE) LIMITED,08272096,Active,29/10/2012,GROUP,2,2,87100 - Residential nursing care facilities,87100,care
+WELFORD HEALTHCARE SOUTH LIMITED,15446753,Active,27/01/2024,GROUP,2,2,87300 - Residential care activities for the elderly and disabled,87300,care
+ASKHAM VILLAGE COMMUNITY LIMITED,02288951,Active,23/08/1988,GROUP,10,3,87100 - Residential nursing care facilities,87100,care
+FAIRBURN MEWS HEALTH CARE LIMITED,04235234,Active,15/06/2001,FULL,11,1,87100 - Residential nursing care facilities,87100,care
+OSBORNE CARE HOMES LIMITED,02336513,Active,18/01/1989,FULL,11,0,87100 - Residential nursing care facilities,87100,care
+ASHTON CARE HOMES LIMITED,09140646,Active,21/07/2014,MEDIUM,5,3,87300 - Residential care activities for the elderly and disabled,87300,care
+RHEOLA HEALTHCARE LIMITED,04159702,Active,14/02/2001,FULL,2,2,87300 - Residential care activities for the elderly and disabled,87300,care
+KEANE PREMIER HOLDINGS LIMITED,SC733424,Active,24/05/2022,GROUP,1,1,87100 - Residential nursing care facilities,87100,care
+WINDMILL CARE (2015) LIMITED,09839018,Active,23/10/2015,MEDIUM,4,2,87300 - Residential care activities for the elderly and disabled,87300,care
+ASH COURT COMMUNITY LIMITED,02938894,Active,09/06/1994,FULL,9,2,87100 - Residential nursing care facilities,87100,care
+ST. GEORGES COURT HEALTHCARE LIMITED,04159738,Active,14/02/2001,FULL,2,2,87300 - Residential care activities for the elderly and disabled,87300,care
+HAWKINGE HOUSE LIMITED,07164419,Active,22/02/2010,FULL,4,1,87100 - Residential nursing care facilities,87100,care
+TAMEHAVEN LIMITED,03001726,Active,14/12/1994,FULL,10,2,87100 - Residential nursing care facilities,87100,care
+ANGEL CARE PLC,03148764,Active,16/01/1996,GROUP,33,7,87100 - Residential nursing care facilities,87100,care
+HENGOED COURT CARE HOME LIMITED,03134564,Active,06/12/1995,FULL,12,2,87100 - Residential nursing care facilities,87100,care
+CROWN CARE XIV LIMITED,13081453,Active,15/12/2020,FULL,3,1,87100 - Residential nursing care facilities,87100,care
+YAD VOEZER LIMITED,02442085,Active,10/11/1989,FULL,6,2,87300 - Residential care activities for the elderly and disabled,87300,care
+PARK HOMES (UK) LIMITED,03349379,Active,10/04/1997,FULL,24,24,87300 - Residential care activities for the elderly and disabled,87300,care
+LIMETREE HEALTHCARE LIMITED,04638226,Active,15/01/2003,FULL,2,0,87300 - Residential care activities for the elderly and disabled,87300,care
+KNIGHTON EVANGELICAL CARE LIMITED,02477649,Active,06/03/1990,FULL,3,0,87300 - Residential care activities for the elderly and disabled,87300,care
+ABBEY HEALTHCARE (HUNTINGDON) LTD,04616613,Active,13/12/2002,MEDIUM,7,2,87100 - Residential nursing care facilities,87100,care
+COMFORT CARE SERVICES (UK) LTD,05153873,Active,15/06/2004,FULL,6,5,87300 - Residential care activities for the elderly and disabled,87300,care
+ADARA GROUP LIMITED,09962699,Active,21/01/2016,GROUP,6,3,87300 - Residential care activities for the elderly and disabled,87300,care
+CEDAR CARE HOMES LIMITED,03585946,Active,18/06/1998,GROUP,17,15,87100 - Residential nursing care facilities,87100,care
+AVERY HOMES DOWNEND LIMITED,09195436,Active,29/08/2014,FULL,3,2,87300 - Residential care activities for the elderly and disabled,87300,care
+XCEL CARE HOMES LTD,06408512,Active,25/10/2007,FULL,8,3,87100 - Residential nursing care facilities,87100,care
+HARTFORD CARE LIMITED,04816268,Active,01/07/2003,FULL,7,2,87300 - Residential care activities for the elderly and disabled,87300,care
+DELPHSIDE LIMITED,02609389,Active,10/05/1991,FULL,1,1,87100 - Residential nursing care facilities,87100,care
+WE CHANGE LIVES (WCL),02595601,Active,26/03/1991,GROUP,14,10,87100 - Residential nursing care facilities,87100,care
+SAINT JOHN OF GOD HOSPITALLER SERVICES,05324279,Active,05/01/2005,GROUP,9,9,87100 - Residential nursing care facilities,87100,care
+PORTHAVEN CARE HOMES (BM) LIMITED,16073242,Active,11/11/2024,FULL,2,2,87100 - Residential nursing care facilities,87100,care
+HARBOUR HEALTHCARE STOCKPORT LTD,12162422,Active,19/08/2019,MEDIUM,3,2,87100 - Residential nursing care facilities,87100,care
+ASSURED HEALTHCARE SOLUTIONS LTD,10230909,Active,14/06/2016,MEDIUM,4,1,87100 - Residential nursing care facilities,87100,care
+EVEDALE CARE LIMITED,14849364,Active,05/05/2023,FULL,2,2,87100 - Residential nursing care facilities,87100,care
+AARONCARE LIMITED,02077314,Active,26/11/1986,MEDIUM,75,4,87300 - Residential care activities for the elderly and disabled,87300,care
+THE HENNESSY PARTNERSHIP LIMITED,04884037,Active,01/09/2003,MEDIUM,15,7,87100 - Residential nursing care facilities,87100,care
+STOCKS HALL CARE HOMES LIMITED,02174831,Active,07/10/1987,FULL,19,8,87100 - Residential nursing care facilities,87100,care
+STOWCARE HOLDINGS LIMITED,05726917,Active,02/03/2006,GROUP,1,1,87300 - Residential care activities for the elderly and disabled,87300,care
+CHD SURREY LTD,11204272,Active,13/02/2018,GROUP,1,1,87100 - Residential nursing care facilities,87100,care
+AGINCARE HOMES HOLDINGS LIMITED,07199693,Active,23/03/2010,GROUP,1,1,87100 - Residential nursing care facilities,87100,care
+SIGNATURE OF HERTFORD (OPERATIONS) LIMITED,08608217,Active,12/07/2013,FULL,7,2,87100 - Residential nursing care facilities,87100,care
+TURNING POINT,00793558,Active,27/02/1964,GROUP,23,2,87100 - Residential nursing care facilities,87100,care
+MARY REGINA CARE HOMES LIMITED,15326170,Active,04/12/2023,MEDIUM,2,2,87100 - Residential nursing care facilities,87100,care
+BERKLEY CARE CUMNOR HILL HOUSE LIMITED,14271359,Active,02/08/2022,FULL,2,2,87100 - Residential nursing care facilities,87100,care
+REGAL HEALTHCARE HOLDINGS LIMITED,07336195,Active,04/08/2010,GROUP,2,2,87300 - Residential care activities for the elderly and disabled,87300,care
+GREAT MARSDEN RESIDENTIAL LIMITED,05810747,Active,09/05/2006,FULL,6,2,87300 - Residential care activities for the elderly and disabled,87300,care
+ASPEN TOWER ROSE PROPCO (LOUTH) LIMITED,13691895,Active,20/10/2021,MEDIUM,2,0,87100 - Residential nursing care facilities,87100,care
+FORDENT PROPERTIES LIMITED,01229527,Active,13/10/1975,MEDIUM,10,2,87100 - Residential nursing care facilities,87100,care
+MEDICI HOLDINGS LTD.,05977424,Active,25/10/2006,GROUP,3,2,87100 - Residential nursing care facilities,87100,care
+WELLS COURT LIMITED,04142568,Active,17/01/2001,GROUP,1,0,87300 - Residential care activities for the elderly and disabled,87300,care
+BLACKADDER CORPORATION II LIMITED,10912195,Active,11/08/2017,GROUP,4,3,87100 - Residential nursing care facilities,87100,care
+BELSIZE HEALTHCARE LIMITED,12315595,Active,14/11/2019,FULL,11,6,87300 - Residential care activities for the elderly and disabled,87300,care
+COLLEYCARE LIMITED,02234990,Active,16/03/1988,FULL,18,0,87100 - Residential nursing care facilities,87100,care
+ARIA ACQUISITION LTD,14504918,Active,24/11/2022,FULL,3,0,87100 - Residential nursing care facilities,87100,care
+ST. NICHOLAS HOSPICE (SUFFOLK),01748046,Active,24/08/1983,GROUP,1,0,87100 - Residential nursing care facilities,87100,care
+MADAD,07051721,Active,21/10/2009,FULL,2,0,87300 - Residential care activities for the elderly and disabled,87300,care
+PARKVIEW GLOUCESTER LTD,08142101,Active,13/07/2012,GROUP,8,1,87100 - Residential nursing care facilities,87100,care
+ONLY CARE LIMITED,06788225,Active,12/01/2009,GROUP,3,1,87300 - Residential care activities for the elderly and disabled,87300,care
+CRAMLINGTON HOUSE LIMITED,06985236,Active,07/08/2009,FULL,9,1,87300 - Residential care activities for the elderly and disabled,87300,care
+MANSFIELD CARE LIMITED,SC333977,Active,15/11/2007,FULL,52,9,87100 - Residential nursing care facilities,87100,care
+ARIYA NEURO CARE (RESIDENTIAL) LIMITED,12713702,Active,02/07/2020,MEDIUM,7,0,87100 - Residential nursing care facilities,87100,care
+PLUM BIDCO LIMITED,09593529,Active,15/05/2015,FULL,2,1,87100 - Residential nursing care facilities,87100,care
+RUNWOOD HOMES LIMITED,00731250,Active,30/07/1962,FULL,96,42,87300 - Residential care activities for the elderly and disabled,87300,care
+CZAJKA PROPERTIES LIMITED,01328355,Active,02/09/1977,FULL,7,4,87100 - Residential nursing care facilities,87100,care
+SOPHOS GROUP LIMITED,09608658,Active,26/05/2015,FULL,1,0,62012 - Business and domestic software development,62012,software
+KIMBLE APPLICATIONS LIMITED,07445594,Active,19/11/2010,FULL,9,2,62012 - Business and domestic software development,62012,software
+MYUNIDAYS LTD,07552253,Active,04/03/2011,GROUP,1,0,62012 - Business and domestic software development,62012,software
+STARK SOFTWARE INTERNATIONAL LTD.,02911704,Active,23/03/1994,FULL,5,3,58290 - Other software publishing,58290,software
+AIRE LOGIC LIMITED,06233174,Active,01/05/2007,FULL,1,1,62012 - Business and domestic software development,62012,software
+EVIDENT EV LIMITED,14094840,Active,09/05/2022,FULL,1,1,62012 - Business and domestic software development,62012,software
+FEATURESPACE LIMITED,05640420,Active,30/11/2005,FULL,1,0,62012 - Business and domestic software development,62012,software
+FRESHA.COM SV LTD,11326509,Active,24/04/2018,GROUP,3,3,62012 - Business and domestic software development,62012,software
+CURVE DIGITAL PUBLISHING LIMITED,07669603,Active,14/06/2011,FULL,6,0,62012 - Business and domestic software development,62012,software
+BUSINESS FUNDING RESEARCH LTD,07312969,Active,13/07/2010,MEDIUM,5,1,62012 - Business and domestic software development,62012,software
+C.D.S. COMPUTER DESIGN SYSTEMS LIMITED,01092135,Active,24/01/1973,FULL,6,1,62012 - Business and domestic software development,62012,software
+STATSBOMB SERVICES LIMITED,10377735,Active,15/09/2016,MEDIUM,3,0,62012 - Business and domestic software development,62012,software
+MATILLION LIMITED,07474948,Active,21/12/2010,GROUP,1,0,62012 - Business and domestic software development,62012,software
+DUCO TECHNOLOGY LIMITED,05686389,Active,24/01/2006,GROUP,7,4,62012 - Business and domestic software development,62012,software
+GETBUSY PLC,10828058,Active,21/06/2017,GROUP,3,0,58290 - Other software publishing,58290,software
+WATERSTONS LIMITED,03818424,Active,03/08/1999,GROUP,5,2,62012 - Business and domestic software development,62012,software
+OPTOMANY LIMITED,08541806,Active,23/05/2013,FULL,5,0,62012 - Business and domestic software development,62012,software
+ROQQETT LTD,12330839,Active,25/11/2019,FULL,1,1,62012 - Business and domestic software development,62012,software
+ZILO TECHNOLOGY LIMITED,12564726,Active,20/04/2020,GROUP,1,1,62012 - Business and domestic software development,62012,software
+BJSS LIMITED,02777575,Active,06/01/1993,FULL,10,0,62012 - Business and domestic software development,62012,software
+EXEL COMPUTER SYSTEMS PLC,01873499,Active,20/12/1984,FULL,3,0,58290 - Other software publishing,58290,software
+LAKESIDE SOFTWARE EMEA LIMITED,08112390,Active,20/06/2012,GROUP,2,2,62012 - Business and domestic software development,62012,software
+COPPER TECHNOLOGIES (UK) LIMITED,11148681,Active,15/01/2018,GROUP,1,1,62012 - Business and domestic software development,62012,software
+PEPPY HEALTH LIMITED,11534232,Active,23/08/2018,GROUP,2,1,62012 - Business and domestic software development,62012,software
+NEXOR LIMITED,05152465,Active,14/06/2004,MEDIUM,3,0,62012 - Business and domestic software development,62012,software
+PERFORCE SOFTWARE UK LIMITED,03816019,Active,29/07/1999,MEDIUM,1,0,62012 - Business and domestic software development,62012,software
+ADVIZZO LTD,09622961,Active,04/06/2015,FULL,3,0,58290 - Other software publishing,58290,software
+SEDNA SYSTEMS EUROPE LIMITED,11756188,Active,08/01/2019,FULL,5,5,62012 - Business and domestic software development,62012,software
+ARCHITECH SOFTWARE LIMITED,10940789,Active,31/08/2017,FULL,6,6,62012 - Business and domestic software development,62012,software
+INNOV8 TECHNOLOGY LTD,03306343,Active,23/01/1997,FULL,3,1,62012 - Business and domestic software development,62012,software
+PANASEER LIMITED,09098199,Active,23/06/2014,GROUP,4,3,62012 - Business and domestic software development,62012,software
+CANONICAL UK LIMITED,05055134,Active,25/02/2004,FULL,1,0,62012 - Business and domestic software development,62012,software
+TRANSACTOR GLOBAL SOLUTIONS LIMITED,04655396,Active,04/02/2003,FULL,3,1,62012 - Business and domestic software development,62012,software
+DGL HEALTHCARE TECHNOLOGY LIMITED,03020555,Active,10/02/1995,FULL,7,0,62012 - Business and domestic software development,62012,software
+CULTURA TECHNOLOGIES LTD,01250877,Active,24/03/1976,FULL,7,1,62012 - Business and domestic software development,62012,software
+POTATO LONDON LTD,07178897,Active,04/03/2010,FULL,1,1,62012 - Business and domestic software development,62012,software
+ACTIX LIMITED,02660615,Active,06/11/1991,FULL,10,3,58290 - Other software publishing,58290,software
+CREDITCALL GROUP LIMITED,07936020,Active,03/02/2012,FULL,1,0,62012 - Business and domestic software development,62012,software
+VOYAGER LABS LIMITED,07154170,Active,11/02/2010,GROUP,2,1,62012 - Business and domestic software development,62012,software
+TAKE-TWO INTERACTIVE SOFTWARE UK LIMITED,09554939,Active,22/04/2015,FULL,2,0,58290 - Other software publishing,58290,software
+BLUEOPTIMA LIMITED,05938886,Active,18/09/2006,GROUP,3,2,62012 - Business and domestic software development,62012,software
+MANDATA (HOLDINGS) LIMITED,08608190,Active,12/07/2013,FULL,6,3,62012 - Business and domestic software development,62012,software
+RIPJAR LTD,08217339,Active,17/09/2012,GROUP,3,3,62012 - Business and domestic software development,62012,software
+TAKE TWO INTERACTIVE SOFTWARE EUROPE LIMITED,02739756,Active,14/08/1992,FULL,12,0,58290 - Other software publishing,58290,software
+HEALTHCARE RESEARCH WORLDWIDE LIMITED,04240899,Active,25/06/2001,MEDIUM,5,2,62012 - Business and domestic software development,62012,software
+"AVEPOINT UK, LTD.",06478398,Active,21/01/2008,FULL,1,1,58290 - Other software publishing,58290,software
+ARMIS SECURITY UK LTD.,12796209,Active,06/08/2020,FULL,1,0,62012 - Business and domestic software development,62012,software
+GPC COMPUTER SOFTWARE LIMITED,02628523,Active,11/07/1991,FULL,7,0,62012 - Business and domestic software development,62012,software
+CYBERSCIENCE LIMITED,01345830,Active,28/12/1977,GROUP,2,0,62012 - Business and domestic software development,62012,software
+XD HOLDINGS LIMITED,SC709057,Active,09/09/2021,MEDIUM,4,0,62012 - Business and domestic software development,62012,software
+LAND TECHNOLOGIES LTD,08845300,Active,14/01/2014,GROUP,2,0,62012 - Business and domestic software development,62012,software
+VANTAGEPOINT HOLDINGS LIMITED,11921555,Active,02/04/2019,GROUP,1,0,62012 - Business and domestic software development,62012,software
+HAPPY COMPUTERS LIMITED,02198980,Active,26/11/1987,FULL,4,0,58290 - Other software publishing,58290,software
+WORKWELL PEOPLE SOLUTIONS LIMITED,02407547,Active,24/07/1989,GROUP,18,5,62012 - Business and domestic software development,62012,software
+ESKO GRAPHICS UK LIMITED,03691943,Active,05/01/1999,FULL,1,1,62012 - Business and domestic software development,62012,software
+PIMBERLY LIMITED,11151537,Active,16/01/2018,GROUP,1,1,62012 - Business and domestic software development,62012,software
+ASCENT DIGITAL SERVICES UK LIMITED,04560258,Active,11/10/2002,FULL,6,0,62012 - Business and domestic software development,62012,software
+EXUS SOFTWARE LTD,07932357,Active,01/02/2012,FULL,5,5,62012 - Business and domestic software development,62012,software
+CYBERTILL GROUP LIMITED,05799849,Active,28/04/2006,GROUP,3,1,62012 - Business and domestic software development,62012,software
+ALTIA SOLUTIONS LIMITED,SC228451,Active,25/02/2002,FULL,8,2,62012 - Business and domestic software development,62012,software
+INTELLIAM AI PLC,14992634,Active,10/07/2023,GROUP,1,1,62012 - Business and domestic software development,62012,software
+LAKA LTD,10575209,Active,20/01/2017,GROUP,7,7,62012 - Business and domestic software development,62012,software
+ITRS GLOBAL BIDCO LTD,07775749,Active,15/09/2011,FULL,6,2,62012 - Business and domestic software development,62012,software
+CLIFTON ASSET MANAGEMENT LIMITED,07206291,Active,29/03/2010,GROUP,5,2,62012 - Business and domestic software development,62012,software
+CR2 (U.K) LIMITED,01760561,Active,11/10/1983,FULL,11,2,62012 - Business and domestic software development,62012,software
+UPP TECHNOLOGIES GROUP LTD,03227302,Active,19/07/1996,GROUP,3,0,62012 - Business and domestic software development,62012,software
+ASPECT ENTERPRISE SOLUTIONS LIMITED,04644014,Active,22/01/2003,FULL,2,0,62012 - Business and domestic software development,62012,software
+IPIPELINE LIMITED,03033012,Active,14/03/1995,FULL,3,0,58290 - Other software publishing,58290,software
+NERVECENTRE SOFTWARE LTD,07166008,Active,23/02/2010,GROUP,1,1,62012 - Business and domestic software development,62012,software
+P. DUCKER SYSTEMS LIMITED,02265701,Active,08/06/1988,FULL,4,2,62012 - Business and domestic software development,62012,software
+FINBOURNE TECHNOLOGY LIMITED,10539696,Active,23/12/2016,GROUP,4,3,62012 - Business and domestic software development,62012,software
+FINASTRA UK LIMITED,01841697,Active,17/08/1984,FULL,20,3,58290 - Other software publishing,58290,software
+KALIBRATE TECHNOLOGIES LIMITED,02800886,Active,18/03/1993,FULL,14,3,62012 - Business and domestic software development,62012,software
+VISUALSOFT LIMITED,03655545,Active,23/10/1998,FULL,5,2,62012 - Business and domestic software development,62012,software
+VISIONABLE LTD,09787096,Active,21/09/2015,GROUP,3,2,62012 - Business and domestic software development,62012,software
+PASTDUE CREDIT SOLUTIONS LIMITED,SC287794,Active,21/07/2005,MEDIUM,2,0,62012 - Business and domestic software development,62012,software
+THOUGHT MACHINE GROUP LIMITED,11114277,Active,15/12/2017,GROUP,1,0,62012 - Business and domestic software development,62012,software
+TERRACONSULT LIMITED,03949081,Active,16/03/2000,FULL,2,0,62012 - Business and domestic software development,62012,software
+GTI RECRUITING SOLUTIONS LIMITED,03977847,Active,20/04/2000,FULL,7,2,62012 - Business and domestic software development,62012,software
+EDUCATION SOFTWARE SOLUTIONS LTD,12595779,Active,11/05/2020,FULL,1,1,62012 - Business and domestic software development,62012,software
+EMPLOYMENT HERO (UK) LIMITED,12861071,Active,07/09/2020,MEDIUM,2,1,62012 - Business and domestic software development,62012,software
+ARKANCE UK LIMITED,02486719,Active,29/03/1990,MEDIUM,4,0,62012 - Business and domestic software development,62012,software
+FOCAL VENTURES LTD,11176072,Active,29/01/2018,GROUP,1,0,62012 - Business and domestic software development,62012,software
+MODAXO GROUP UK LIMITED,04160790,Active,15/02/2001,FULL,7,1,62012 - Business and domestic software development,62012,software
+CLOUDCALL LIMITED,05557457,Active,08/09/2005,FULL,8,1,62012 - Business and domestic software development,62012,software
+MEDICAL MANAGEMENT SYSTEMS LIMITED,05272668,Active,28/10/2004,FULL,1,0,62012 - Business and domestic software development,62012,software
+DANCERACE PLC,02717007,Active,21/05/1992,FULL,1,1,62012 - Business and domestic software development,62012,software
+FINASTRA GROUP HOLDINGS LIMITED,01360027,Active,29/03/1978,FULL,21,3,58290 - Other software publishing,58290,software
+VEEAM SOFTWARE UK HOLDINGS LIMITED,06761513,Active,28/11/2008,FULL,2,2,58290 - Other software publishing,58290,software
+ECI SOFTWARE SOLUTIONS LIMITED,04162072,Active,16/02/2001,FULL,3,1,62012 - Business and domestic software development,62012,software
+CLARITY INFORMATICS LIMITED,04133376,Active,29/12/2000,FULL,5,1,62012 - Business and domestic software development,62012,software
+NINTEX UK LIMITED,08057414,Active,04/05/2012,FULL,15,2,62012 - Business and domestic software development,62012,software
+PLANET HOLDING LTD,10191422,Active,20/05/2016,GROUP,1,0,62012 - Business and domestic software development,62012,software
+INFOR (FARNBOROUGH) LIMITED,01599408,Active,24/11/1981,FULL,24,0,62012 - Business and domestic software development,62012,software
+ATTEST TECHNOLOGIES LIMITED,09445883,Active,18/02/2015,GROUP,3,0,62012 - Business and domestic software development,62012,software
+ESKO STONECUBE LIMITED,04131106,Active,27/12/2000,FULL,1,1,62012 - Business and domestic software development,62012,software
+POMELO GROUP LTD,10583935,Active,25/01/2017,GROUP,5,0,62012 - Business and domestic software development,62012,software
+FSP CORPORATE LIMITED,12932103,Active,06/10/2020,FULL,5,3,62012 - Business and domestic software development,62012,software
+FORTERRO UK ORDERWISE LIMITED,04633298,Active,10/01/2003,FULL,3,0,62012 - Business and domestic software development,62012,software
+FOODS CONNECTED LTD,NI614697,Active,28/09/2012,FULL,4,3,62012 - Business and domestic software development,62012,software
+VS INTERNATIONAL HOLDINGS LIMITED,10458211,Active,02/11/2016,FULL,3,3,58290 - Other software publishing,58290,software
+PAYSTRATUS GROUP LTD,11677111,Active,14/11/2018,GROUP,1,0,58290 - Other software publishing,58290,software
+EVIIVO LIMITED,05002392,Active,23/12/2003,GROUP,4,1,58290 - Other software publishing,58290,software
+YOSPACE TECHNOLOGIES LIMITED,04494783,Active,25/07/2002,FULL,11,0,62012 - Business and domestic software development,62012,software
+OTTO CAR LIMITED,08479726,Active,09/04/2013,FULL,34,30,62012 - Business and domestic software development,62012,software
+METROPRESS LIMITED,01010311,Active,06/05/1971,FULL,12,1,62012 - Business and domestic software development,62012,software
+PROCENTIA LIMITED,04265102,Active,06/08/2001,GROUP,1,0,62012 - Business and domestic software development,62012,software
+SBAR ENDURANCE LIMITED,10083277,Active,24/03/2016,FULL,1,1,62012 - Business and domestic software development,62012,software
+EVALUE LTD,07382500,Active,21/09/2010,GROUP,2,2,62012 - Business and domestic software development,62012,software
+CYACOMB LIMITED,SC538756,Active,23/06/2016,GROUP,3,2,62012 - Business and domestic software development,62012,software
+VS UK HOLDINGS 2 LIMITED,12938336,Active,08/10/2020,FULL,2,2,62012 - Business and domestic software development,62012,software
+DECANT GROUP LIMITED,12348943,Active,04/12/2019,FULL,3,1,62012 - Business and domestic software development,62012,software
+NAPIER TECHNOLOGIES LIMITED,09901129,Active,03/12/2015,GROUP,16,4,62012 - Business and domestic software development,62012,software
+MODULR TECHNOLOGY LIMITED,09897906,Active,02/12/2015,FULL,3,3,62012 - Business and domestic software development,62012,software
+MAGNITUDE SOFTWARE UK LIMITED,03426103,Active,28/08/1997,FULL,8,0,62012 - Business and domestic software development,62012,software
+XSOLUTIONS365 LTD,SC371716,Active,25/01/2010,FULL,4,0,62012 - Business and domestic software development,62012,software
+BANYAN SOFTWARE UK LIMITED,13660231,Active,04/10/2021,GROUP,2,2,62012 - Business and domestic software development,62012,software
+EVOTIX LIMITED,SC164270,Active,19/03/1996,FULL,15,9,62012 - Business and domestic software development,62012,software
+FORM3 TECHNOLOGY LIMITED,13631478,Active,20/09/2021,FULL,2,1,62012 - Business and domestic software development,62012,software
+TEEMILL TECH LTD,07071956,Active,10/11/2009,FULL,7,2,58290 - Other software publishing,58290,software
+NAVIAM ACQUISITION CORP LTD,13355220,Active,23/04/2021,GROUP,9,1,62012 - Business and domestic software development,62012,software
+DASSAULT SYSTEMES UK LIMITED,03482081,Active,11/12/1997,FULL,1,0,58290 - Other software publishing,58290,software
+EQUE2 LIMITED,08179642,Active,14/08/2012,FULL,11,1,62012 - Business and domestic software development,62012,software
+AUTOMATED INSURANCE SOLUTIONS LIMITED,10537770,Active,22/12/2016,FULL,1,0,62012 - Business and domestic software development,62012,software
+TRACER MANAGEMENT SYSTEMS LIMITED,03611671,Active,07/08/1998,MEDIUM,8,1,62012 - Business and domestic software development,62012,software
+PHOEBUS SOFTWARE LIMITED,02441885,Active,10/11/1989,FULL,4,4,62012 - Business and domestic software development,62012,software
+STYLESCAPE LIMITED,06366729,Active,11/09/2007,GROUP,8,0,62012 - Business and domestic software development,62012,software
+CALLSIGN LTD.,07277719,Active,08/06/2010,GROUP,4,0,62012 - Business and domestic software development,62012,software
+THREADNEEDLE SOFTWARE LIMITED,07485799,Active,07/01/2011,FULL,2,1,62012 - Business and domestic software development,62012,software
+TOWERS WATSON SOFTWARE LIMITED,03318544,Active,14/02/1997,FULL,1,0,58290 - Other software publishing,58290,software
+HAMMERHEAD INTERACTIVE LIMITED,08963806,Active,27/03/2014,FULL,6,2,62012 - Business and domestic software development,62012,software
+ARK WORKPLACE RISK LTD,01966479,Active,28/11/1985,MEDIUM,11,1,58290 - Other software publishing,58290,software
+MASTERNAUT HOLDINGS LIMITED,04134307,Active,02/01/2001,FULL,10,0,62012 - Business and domestic software development,62012,software
+TIMEWATCH PLC,01871543,Active,13/12/1984,GROUP,1,0,62012 - Business and domestic software development,62012,software
+VIR HEALTH LIMITED,11449267,Active,05/07/2018,GROUP,2,1,58290 - Other software publishing,58290,software
+VERTOFX LTD,10973066,Active,20/09/2017,GROUP,2,2,62012 - Business and domestic software development,62012,software
+FIDESSA TRADING UK LIMITED,03781700,Active,27/05/1999,FULL,13,13,62012 - Business and domestic software development,62012,software
+DERIVATION SOFTWARE LIMITED,03633831,Active,17/09/1998,FULL,4,1,62012 - Business and domestic software development,62012,software
+SAVANT LIMITED,02077844,Active,27/11/1986,MEDIUM,2,0,62012 - Business and domestic software development,62012,software
+AMT-SYBEX LIMITED,03036807,Active,23/03/1995,FULL,2,0,62012 - Business and domestic software development,62012,software
+TXP TECHNOLOGY LIMITED,11786401,Active,24/01/2019,FULL,4,4,62012 - Business and domestic software development,62012,software
+UNIVERSALLY SPEAKING LIMITED,05431888,Active,21/04/2005,FULL,3,1,58290 - Other software publishing,58290,software
+GEM ENVIRONMENTAL BUILDING SERVICES LIMITED,03893436,Active,13/12/1999,FULL,11,1,62012 - Business and domestic software development,62012,software
+PEGASYSTEMS SOFTWARE LIMITED,03910006,Active,20/01/2000,FULL,16,3,62012 - Business and domestic software development,62012,software
+ZIFLOW LIMITED,09819483,Active,12/10/2015,GROUP,3,2,62012 - Business and domestic software development,62012,software
+INVENIO BUSINESS SOLUTIONS LIMITED,05872094,Active,11/07/2006,FULL,11,6,62012 - Business and domestic software development,62012,software
+D S CALLARDS LIMITED,02825085,Active,08/06/1993,FULL,5,3,58290 - Other software publishing,58290,software
+AEVI UK LIMITED,09669211,Active,03/07/2015,FULL,1,1,62012 - Business and domestic software development,62012,software
+AERDATA UK LIMITED,04354279,Active,16/01/2002,FULL,1,1,62012 - Business and domestic software development,62012,software
+SDL LIMITED,02675207,Active,06/01/1992,FULL,4,0,62012 - Business and domestic software development,62012,software

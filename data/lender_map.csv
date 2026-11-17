@@ -1,0 +1,389 @@
+lender_clean,rows,companies,sectors,example_raw,cum_share,parent,type,notes
+barclays bank,363,81,"care, software",Barclays Bank PLC (As Security Agent for the Beneficiaries),0.152,Barclays,bank,rule: bank group
+national westminster bank,258,74,"care, software",National Westminster Bank PLC,0.26,NatWest Group,bank,rule: bank group
+royal bank of scotland,102,33,"care, software",The Royal Bank of Scotland PLC,0.303,NatWest Group,bank,rule: bank group
+clydesdale bank,96,32,"care, software",Clydesdale Bank PLC,0.344,Virgin Money,bank,rule: bank group
+hsbc bank,85,26,"care, software",Hsbc Bank PLC as Security Agent,0.379,HSBC,bank,rule: bank group
+bank of scotland,74,18,"care, software",Bank of Scotland PLC as Security Trustee,0.41,Lloyds Banking Group,bank,rule: bank group
+hcp,64,1,care,"Hcp, Inc as Security Agent",0.437,HCP / Healthpeak,property_investor,US healthcare property investor
+santander uk,60,22,"care, software",Santander UK PLC,0.462,Santander,bank,rule: bank group
+hsbc uk bank,52,23,"care, software",Hsbc UK Bank PLC,0.484,HSBC,bank,rule: bank group
+lloyds tsb bank,52,16,"care, software",Lloyds Tsb Bank PLC,0.506,Lloyds Banking Group,bank,rule: bank group
+mount street mortgage servicing,46,1,care,Mount Street Mortgage Servicing Limited as Security Agent,0.525,mount street mortgage servicing,agent_trustee,rule: agent/trustee word
+bank of ireland,45,14,"care, software",The Governor and Company of the Bank of Ireland,0.544,Bank of Ireland,bank,rule: bank group
+lloyds bank,43,18,"care, software",Lloyds Bank PLC,0.562,Lloyds Banking Group,bank,rule: bank group
+aib group,39,11,care,Aib Group (UK) PLC,0.578,AIB,bank,rule: bank group
+silicon valley bank,35,19,software,Silicon Valley Bank,0.593,HSBC,bank,rule: bank group
+coutts and company,34,8,"care, software",Coutts & Company,0.607,NatWest Group,bank,rule: bank group
+co operative bank,28,4,care,The Co-Operative Bank PLC,0.619,co operative bank,bank,rule: bank or building society
+ucb bank,22,6,care,Ucb Bank PLC,0.628,UCB,unresolved,rule said bank; owner to check
+hcp uk investments,21,1,care,"Hcp UK Investments (Jersey), LTD",0.637,HCP / Healthpeak,property_investor,
+secretary of state for health,16,1,care,The Secretary of State for Health,0.644,secretary of state for health,government,rule: public sector word
+triodos bank uk,16,5,care,Triodos Bank UK Limited,0.651,triodos bank uk,bank,rule: bank or building society
+credit suisse first boston,15,2,care,Credit Suisse First Boston,0.657,UBS (Credit Suisse),bank,Credit Suisse acquired by UBS 2023
+kroll trustee services,15,6,"care, software",Kroll Trustee Services Limited,0.663,kroll trustee services,agent_trustee,rule: agent/trustee word
+midland bank,14,7,"care, software",Midland Bank PLC,0.669,HSBC,bank,rule: bank group
+canadian imperial bank of commerce,13,6,software,Canadian Imperial Bank of Commerce,0.674,canadian imperial bank of commerce,bank,rule: bank or building society
+hsbc corporate trustee company,13,3,software,Hsbc Corporate Trustee Company (UK) Limited (as Security Agent),0.68,HSBC,agent_trustee,rule: agent/trustee word
+hsbc innovation bank,13,6,software,Hsbc Innovation Bank Limited,0.685,HSBC,bank,rule: bank group
+glas trust corporation,12,7,software,Glas Trust Corporation Limited as Security Trustee,0.69,glas trust corporation,agent_trustee,rule: agent/trustee word
+barclays security trustee,11,7,"care, software",Barclays Security Trustee Limited,0.695,Barclays,agent_trustee,rule: agent/trustee word
+jpmorgan chase bank,11,3,software,Jpmorgan Chase Bank N.A. as Administrative Agent,0.7,jpmorgan chase bank,bank,rule: bank or building society
+unity trust bank,11,3,care,Unity Trust Bank PLC (Crn: 01713124),0.704,unity trust bank,bank,rule: bank or building society
+downing,10,2,care,Downing LLP as Security Agent.,0.708,Downing,debt_fund,fund manager as agent for own funds
+triple point lease partners,10,1,software,Triple Point Lease Partners,0.713,Triple Point,specialist_nonbank,UK asset finance; NOT TriplePoint Capital
+wilmington trust,10,4,software,Wilmington Trust (London) Limited,0.717,wilmington trust,agent_trustee,rule: agent/trustee word
+shawbrook bank,9,4,"care, software",Shawbrook Bank Limited,0.721,shawbrook bank,bank,rule: bank or building society
+sixth street lending partners,9,1,software,Sixth Street Lending Partners (As Secured Party),0.724,Sixth Street,debt_fund,US direct lending fund
+bank of cyprus,8,1,care,Bank of Cyprus (London) Limited,0.728,bank of cyprus,bank,rule: bank or building society
+north cheshire health authority,8,1,care,North Cheshire Health Authority,0.731,north cheshire health authority,government,rule: public sector word
+warwickshire county council,8,1,care,Warwickshire County Council,0.734,warwickshire county council,government,rule: public sector word
+allied irish banks,7,2,care,Allied Irish Banks PLC,0.737,AIB,bank,rule: bank group
+crestline direct finance l p,7,1,software,"Crestline Direct Finance, L.P. as Security Agent",0.74,Crestline,debt_fund,fund manager as agent for own funds
+cynergy bank,7,3,care,Cynergy Bank PLC as Security Trustee for the Secured Parties (As Defined in the Instrument).,0.743,cynergy bank,bank,rule: bank or building society
+fundsquire,7,3,software,Fundsquire LTD,0.746,Fundsquire,specialist_nonbank,
+lloyds tsb scotland,7,1,care,Lloyds Tsb Scotland PLC,0.749,Lloyds Banking Group,bank,rule: bank group
+allied irish banks plclimited,6,1,care,Allied Irish Banks Plclimited)(As Security Trustee for Itself and Aib Finance,0.752,AIB,bank,rule: bank group
+cbre loan services,6,3,care,Cbre Loan Services Limited,0.754,CBRE,agent_trustee,loan servicer
+credit suisse cayman islands branch,6,3,software,"Credit Suisse Ag,Cayman Islands Branch",0.757,UBS (Credit Suisse),bank,
+interregnum,6,1,software,Interregnum PLC,0.759,Interregnum,sponsor,tech venture investor
+mercian housing association,6,1,care,Mercian Housing Association Limited,0.762,Mercian Housing Association,other,landlord
+metro bank,6,2,care,Metro Bank PLC,0.764,metro bank,bank,rule: bank or building society
+paragon business finance,6,1,software,Paragon Business Finance PLC,0.767,Paragon Banking Group,bank,
+tpg speciality lending europe i advisors,6,1,software,"Tpg Speciality Lending Europe I Advisors, LTD.",0.769,Sixth Street,debt_fund,"TPG Specialty Lending, now Sixth Street"
+trident housing association,6,1,care,Trident Housing Association Limited,0.772,Trident Housing Association,other,landlord
+accel europe l p,5,1,software,Accel Europe L.P. (As Security Trustee for the Investors) (the Security Trustee),0.774,Accel,sponsor,VC investor
+bain capital credit,5,1,software,"Bain Capital Credit, LP as Security Agent",0.776,Bain Capital Credit,debt_fund,fund manager as agent for own funds
+bayliss finance,5,1,care,Bayliss Finance Limited,0.778,bayliss finance,unresolved,not identified
+big ideas group,5,1,software,Big Ideas Group Limited,0.78,big ideas group,unresolved,not identified
+bristol and west building society,5,1,care,Bristol & West Building Society,0.782,Bank of Ireland,bank,acquired by Bank of Ireland
+caf bank,5,1,care,Caf Bank Limited,0.784,caf bank,bank,rule: bank or building society
+co operative bank public company,5,1,care,Co-Operative Bank Public Limited Company,0.786,co operative bank public company,bank,rule: bank or building society
+soho square capital,5,2,software,Soho Square Capital LLP as Security Trustee,0.789,Soho Square,sponsor,PE investor
+triplepoint capital llc,5,2,software,Triplepoint Capital Llc as Security Trustee for the Secured Parties (As Defined within the Instrument).,0.791,TriplePoint Capital,debt_fund,US venture debt; NOT Triple Point UK
+ubs stamford branch,5,1,software,"Ubs Ag, Stamford Branch as Security Agent",0.793,UBS,agent_trustee,bank acting as agent for a syndicate
+university of surrey,5,1,software,The University of Surrey (The Landlord),0.795,University of Surrey,other,landlord
+abbey national,4,1,care,Abbey National PLC,0.797,Santander,bank,predecessor of Santander UK
+blue owl capital corporation as international security agent,4,2,software,Blue Owl Capital Corporation as International Security Agent,0.798,blue owl capital corporation as international security agent,agent_trustee,rule: agent/trustee word
+close brothers,4,3,"care, software",Close Brothers Limited,0.8,Close Brothers,bank,
+correlation one holdings,4,1,software,Correlation One Holdings Limited,0.802,Correlation One,other,likely acquirer or parent
+council of the city of manchester,4,1,care,The Council of the City of Manchester,0.803,council of the city of manchester,government,rule: public sector word
+housing corporation,4,1,care,The Housing Corporation,0.805,Housing Corporation,government,
+hsbc innovation banking,4,2,software,Hsbc Innovation Banking,0.807,HSBC,bank,rule: bank group
+ldc,4,3,software,Ldc (Managers) Limited (as Security Trustee),0.808,Lloyds Banking Group,sponsor,LDC = Lloyds' PE arm
+morgan stanley senior funding as international security agent,4,2,software,Morgan Stanley Senior Funding Inc. as International Security Agent,0.81,morgan stanley senior funding as international security agent,agent_trustee,rule: agent/trustee word
+northedge capital,4,2,software,Northedge Capital LLP as Security Trustee for the Secured Parties.,0.812,Northedge,sponsor,PE investor
+overture capital,4,1,care,Overture Capital Limited,0.813,overture capital,unresolved,not identified
+phoenix equity nominees,4,1,care,Phoenix Equity Nominees Limited as Security Trustee,0.815,Phoenix Equity,sponsor,PE investor
+pnc bank national association,4,3,software,"Pnc Bank, National Association (""Pnc"")",0.817,pnc bank national association,bank,rule: bank or building society
+royal bank of canada,4,2,"care, software",Royal Bank of Canada,0.818,royal bank of canada,bank,rule: bank or building society
+situs asset management,4,2,care,Situs Asset Management Limited,0.82,Situs,agent_trustee,loan servicer
+alliance and leicester,3,2,care,Alliance and Leicester PLC,0.821,Santander,bank,acquired by Santander
+alter domus trustees,3,1,software,Alter Domus Trustees (UK) Limited,0.823,Alter Domus,agent_trustee,
+amber meef 2,3,1,software,Amber Meef 2 LLP,0.824,Midlands Engine Investment Fund,government,public-backed fund
+bank of montreal,3,2,software,Bank of Montreal,0.825,bank of montreal,bank,rule: bank or building society
+bgf nominees,3,3,"care, software",Bgf Nominees Limited (As Security Trustee),0.826,BGF,sponsor,growth equity investor
+cibra,3,1,software,Cibra LTD,0.828,cibra,unresolved,not identified
+council of the borough of south tyneside,3,1,software,The Council of the Borough of South Tyneside,0.829,council of the borough of south tyneside,government,rule: public sector word
+coutts and co,3,2,software,Coutts & Co.,0.83,NatWest Group,bank,rule: bank group
+essex county council,3,1,care,Essex County Council,0.831,essex county council,government,rule: public sector word
+gibraltar community initiatives,3,2,care,Gibraltar Community Initiatives Limited,0.833,gibraltar community initiatives,unresolved,not identified
+heritable and general investment bank,3,1,care,The Heritable and General Investment Bank Limited,0.834,heritable and general investment bank,bank,rule: bank or building society
+humberclyde finance group,3,1,care,Humberclyde Finance Group Limited,0.835,Humberclyde,specialist_nonbank,asset finance
+kredietbank n v,3,1,care,Kredietbank N.V.,0.836,kredietbank n v,bank,rule: bank or building society
+kreos capital vii,3,3,software,Kreos Capital Vii (UK) Limited,0.838,Kreos,debt_fund,venture debt
+lucid trustee services,3,2,software,Lucid Trustee Services Limited,0.839,lucid trustee services,agent_trustee,rule: agent/trustee word
+northern rock,3,3,"care, software",Northern Rock PLC,0.84,Virgin Money,bank,
+silicon valley bank uk,3,1,software,Silicon Valley Bank UK Limited,0.841,HSBC,bank,rule: bank group
+sipl finco,3,3,care,Sipl Finco Sarl,0.843,sipl finco,unresolved,not identified
+solutus advisors,3,1,care,Solutus Advisors Limited,0.844,Solutus,agent_trustee,loan servicer
+tc loans,3,2,"care, software",Tc Loans Limited (As Security Agent),0.845,tc loans,unresolved,not identified
+ucb healthcare finance no 1,3,1,care,Ucb Healthcare Finance No.1 Limited,0.846,ucb healthcare finance no 1,unresolved,not identified
+volantis capital,3,1,care,Volantis Capital LLP,0.848,volantis capital,unresolved,not identified
+west hill capital security trustee,3,1,software,West Hill Capital Security Trustee Limited,0.849,west hill capital security trustee,agent_trustee,rule: agent/trustee word
+ab private credit investors llc,2,1,software,Ab Private Credit Investors Llc,0.85,ab private credit investors llc,debt_fund,tail: hand decision
+abbey national building society,2,1,care,Abbey National Building Society,0.851,Santander,bank,rule: bank group
+abbey national treasury services,2,2,care,Abbey National Treasury Services PLC,0.852,Santander,bank,rule: bank group
+accel europe l p the security trustee,2,1,software,Accel Europe L.P. (As Security for the Investors) the Security Trustee,0.852,accel europe l p the security trustee,agent_trustee,rule: agent/trustee word
+active lives care,2,1,care,Active Lives Care LTD,0.853,active lives care,unresolved,not identified
+adrian john otten,2,1,care,Adrian John Otten as Trustee of the Colten Developments Limited Pension Scheme,0.854,adrian john otten,other,tail: hand decision
+allica bank,2,1,care,Allica Bank Limited,0.855,allica bank,bank,rule: bank or building society
+andrew vincent,2,1,software,Andrew Vincent,0.856,andrew vincent,individual,tail: hand decision
+arbuthnot commercial asset based lending,2,2,software,Arbuthnot Commercial Asset Based Lending Limited,0.857,Arbuthnot,bank,tail: hand decision
+arbuthnot latham and co,2,2,"care, software","Arbuthnot Latham & Co,. Limited",0.857,Arbuthnot,bank,tail: hand decision
+ares capital corporation,2,1,software,"Ares Capital Corporation, as Collateral Agent",0.858,ares capital corporation,unresolved,not identified
+assetz capital trust company,2,1,care,Assetz Capital Trust Company Limited,0.859,assetz capital trust company,specialist_nonbank,tail: hand decision
+bank or ireland,2,2,care,The Governor and Company of the Bank or Ireland (As Security Trustee for and on Behalf of the Beneficiaries),0.86,bank or ireland,bank,rule: bank or building society
+barclays bank as lender,2,2,care,Barclays Bank PLC as Lender,0.861,Barclays,bank,rule: bank group
+bock senior capital investors iv s r l,2,1,software,Bock Senior Capital Investors Iv S.À R.L.,0.862,bock senior capital investors iv s r l,debt_fund,tail: hand decision
+caretrust uk,2,2,care,Caretrust UK Limited,0.862,caretrust uk,property_investor,tail: hand decision
+civitas social housing,2,2,care,Civitas Social Housing PLC,0.863,civitas social housing,property_investor,tail: hand decision
+close leasing,2,1,software,Close Leasing Limited,0.864,Close Brothers,bank,tail: hand decision
+correlation one investments,2,1,software,Correlation One Investments (Europe) Limited,0.865,Correlation One,other,tail: hand decision
+creative england,2,1,software,Creative England Limited,0.866,creative england,government,tail: hand decision
+creative growth finance,2,1,software,Creative Growth Finance Limited,0.867,creative growth finance,unresolved,not identified
+credit suisse london branch,2,1,care,"Credit Suisse,London Branch",0.867,UBS (Credit Suisse),bank,tail: hand decision
+david mark hunter,2,1,software,David Mark Hunter,0.868,david mark hunter,individual,tail: hand decision
+eastward fund management llc,2,1,software,"Eastward Fund Management, Llc",0.869,Eastward,debt_fund,tail: hand decision
+eci ventures nominees,2,1,software,Eci Ventures Nominees Limited,0.87,eci ventures nominees,sponsor,tail: hand decision
+finance wales investments,2,1,care,Finance Wales Investments (8) Limited,0.871,Development Bank of Wales,government,
+first citizens bank and trust company,2,1,software,First-Citizens Bank & Trust Company (As Administrative Agent),0.872,first citizens bank and trust company,bank,rule: bank or building society
+float finance ab,2,1,software,Float Finance Ab,0.872,float finance ab,unresolved,not identified
+gibraltar investment 206 210 main street gibraltar gx11 1aa,2,2,care,"Gibraltar Investment (Holdings) Limited, 206-210 Main Street, Gibraltar, GX11 1AA as Security Trustee for the Secured Parties (as Defined in the Instrument)",0.873,gibraltar investment 206 210 main street gibraltar gx11 1aa,unresolved,not identified
+growth lending 2021,2,2,software,Growth Lending 2021 Limited,0.874,Growth Lending,debt_fund,tail: hand decision
+hampshire trust bank,2,1,software,Hampshire Trust Bank PLC,0.875,hampshire trust bank,bank,rule: bank or building society
+hcn finco trs,2,2,care,Hcn Finco Trs Limited,0.876,Welltower (Health Care REIT),property_investor,tail: hand decision
+hyundai capital uk,2,1,software,Hyundai Capital UK Limited,0.877,hyundai capital uk,specialist_nonbank,tail: hand decision
+industrial property investment fund,2,1,software,Industrial Property Investment Fund,0.878,industrial property investment fund,other,tail: hand decision
+jeremy griffin beasley,2,1,software,Jeremy Griffin Beasley.,0.878,jeremy griffin beasley,individual,tail: hand decision
+john colwell,2,1,care,John Colwell as Trustee of the Colten Developments Limited Pension Scheme,0.879,john colwell,other,tail: hand decision
+john richmond beasley,2,1,software,John Richmond Beasley.,0.88,john richmond beasley,individual,tail: hand decision
+lendable asset management llc,2,1,software,Lendable Asset Management Llc (As Security Trustee),0.881,lendable asset management llc,debt_fund,tail: hand decision
+letchworth garden city heritage foundation,2,1,software,Letchworth Garden City Heritage Foundation,0.882,letchworth garden city heritage foundation,other,tail: hand decision
+livingbridge enterprise,2,1,software,Livingbridge Enterprise LLP as Security Trustee,0.883,livingbridge enterprise,sponsor,tail: hand decision
+lloyds tsb commercial finance,2,2,software,Lloyds Tsb Commercial Finance Limited,0.883,Lloyds Banking Group,bank,rule: bank group
+lombard north central,2,2,care,Lombard North Central PLC,0.884,NatWest Group,bank,tail: hand decision
+marketinvoice,2,2,software,Marketinvoice Limited,0.885,marketinvoice,specialist_nonbank,tail: hand decision
+mayor and commonalty and citizens of the city of london,2,1,software,The Mayor and Commonalty and Citizens of the City of London,0.886,mayor and commonalty and citizens of the city of london,other,tail: hand decision
+morgan stanley senior funding,2,1,software,"Morgan Stanley Senior Funding, Inc., as Collateral Agent",0.887,morgan stanley senior funding,unresolved,not identified
+mysing hold co,2,1,care,Mysing Hold Co LTD,0.888,mysing hold co,unresolved,not identified
+nationwide building society,2,2,care,Nationwide Building Society (Trading as Virgin Money),0.888,Nationwide,bank,rule: bank group
+nhp securities no 3,2,1,care,Nhp Securities No.3 Limited,0.889,NHP,property_investor,tail: hand decision
+nhs commissioning board,2,2,care,Nhs Commissioning Board (Known as Nhs England),0.89,nhs commissioning board,government,rule: public sector word
+northedge capital nominee,2,1,software,Northedge Capital Nominee Limited,0.891,Northedge,sponsor,PE investor
+pacific western bank,2,1,software,Pacific Western Bank,0.892,pacific western bank,bank,rule: bank or building society
+paragon bank business finance,2,1,software,Paragon Bank Business Finance PLC,0.893,paragon bank business finance,bank,rule: bank or building society
+pulford trading,2,1,care,Pulford Trading Limited,0.893,pulford trading,unresolved,not identified
+rbsi custody bank and rbsi trust company,2,1,software,Rbsi Custody Bank Limited and Rbsi Trust Company Limited,0.894,rbsi custody bank and rbsi trust company,bank,rule: bank or building society
+rowanmoor trustees,2,1,care,Rowanmoor Trustees Limited as Trustee of the Colten Developments Limited Pension Scheme,0.895,Rowanmoor,other,pension scheme trustee
+salica growth debt fund i spv,2,2,software,Salica Growth Debt Fund I Spv S.a R.L.,0.896,salica growth debt fund i spv,debt_fund,tail: hand decision
+secretary of state for social services,2,1,care,The Secretary of State for Social Services,0.897,secretary of state for social services,government,rule: public sector word
+shell care holdco,2,1,care,Shell Care Holdco Limited,0.898,Shell Care Holdco,other,own parent company
+silicon valley bank as assignee,2,1,software,Silicon Valley Bank as Assignee,0.898,HSBC,bank,rule: bank group
+silicon valley bank uk branch,2,1,software,"Silicon Valley Bank, UK Branch (And Its Successors in Title and Permitted Transferees)",0.899,HSBC,bank,rule: bank group
+sipl finco trs,2,1,care,Sipl Finco Trs S.a R.L.,0.9,sipl finco trs,unresolved,not identified
+sipl quantum propco,2,1,care,Sipl Quantum Propco LTD,0.901,sipl quantum propco,unresolved,not identified
+teybridge f1 designated activity company,2,1,software,Teybridge F1 Designated Activity Company,0.902,teybridge f1 designated activity company,unresolved,not identified
+tpg specialty lending,2,1,software,"Tpg Specialty Lending, Inc.",0.903,Sixth Street,debt_fund,tail: hand decision
+ubp private debt fund iii designated activity company,2,1,software,Ubp Private Debt Fund Iii Designated Activity Company,0.904,ubp private debt fund iii designated activity company,debt_fund,tail: hand decision
+ulster bank,2,2,software,Ulster Bank Limited,0.904,ulster bank,bank,rule: bank or building society
+wells fargo bank national association,2,1,software,"Wells Fargo Bank, National Association",0.905,wells fargo bank national association,bank,rule: bank or building society
+wells fargo capital finance llc,2,1,software,"Wells Fargo Capital Finance, Llc",0.906,Wells Fargo,bank,tail: hand decision
+westbridge fund managers,2,1,software,Westbridge Fund Managers Limited,0.907,Westbridge,sponsor,tail: hand decision
+westbridge ii,2,1,software,Westbridge Ii LP,0.908,Westbridge,sponsor,tail: hand decision
+williams and glyns bank,2,1,care,Williams & Glyns Bank PLC,0.909,williams and glyns bank,bank,rule: bank or building society
+woolwich,2,1,care,Woolwich PLC,0.909,Barclays,bank,rule: bank group
+wuessen lending s r l,2,2,software,Wuessen Lending S.À.R.L.,0.91,wuessen lending s r l,unresolved,not identified
+yorkshire bank,2,1,care,Yorkshire Bank PLC,0.911,Virgin Money,bank,rule: bank group
+3i group,1,1,software,3I Group PLC,0.911,3i group,sponsor,tail: hand decision
+a 01 securitisation s r l acting through its compartment sv tempo 1,1,1,software,"A 01 Securitisation S.À R.L. Acting Through Its Compartment ""Sv Tempo 1""",0.912,a 01 securitisation s r l acting through its compartment sv tempo 1,unresolved,not identified
+a collins,1,1,care,A. Collins,0.912,a collins,individual,tail: hand decision
+abn amro commercial finance,1,1,care,Abn Amro Commercial Finance PLC,0.913,abn amro commercial finance,bank,tail: hand decision
+acfc corporate finance,1,1,software,Acfc Corporate Finance Limited,0.913,acfc corporate finance,unresolved,not identified
+acpi alternative investments,1,1,software,Acpi Alternative Investments LLP,0.914,acpi alternative investments,unresolved,not identified
+alan cambridge,1,1,software,Alan Cambridge (As Security Trustee),0.914,alan cambridge,individual,tail: hand decision
+alan howard,1,1,software,Alan Howard,0.914,alan howard,individual,tail: hand decision
+alcan holdings uk,1,1,software,Alcan Holdings UK Limited,0.915,alcan holdings uk,other,tail: hand decision
+aldermore bank,1,1,software,Aldermore Bank PLC,0.915,aldermore bank,bank,rule: bank or building society
+alec william bates and josephine bates,1,1,care,Alec William Bates and Josephine Bates,0.916,alec william bates and josephine bates,individual,tail: hand decision
+alecwilliam bates,1,1,care,Alecwilliam Bates,0.916,alecwilliam bates,individual,tail: hand decision
+alex lawrie receivables financing,1,1,software,Alex Lawrie Receivables Financing LTD,0.917,Lloyds Banking Group,bank,tail: hand decision
+allied irish banks and or aib finance,1,1,care,"Allied Irish Banks, P.L.C. and/or Aib Finance Limited",0.917,AIB,bank,rule: bank group
+alter domus credit administration acting,1,1,software,Alter Domus Credit Administration (Hong Kong) Limited Acting as Security Agent,0.917,Alter Domus,agent_trustee,tail: hand decision
+ancient order of foresters friendly society,1,1,software,The Ancient Order of Foresters Friendly Society Limited,0.918,ancient order of foresters friendly society,unresolved,not identified
+andrew vincent and barnett waddingham capital trustees as trustees of the av executivetrust funded unapproved retirement scheme,1,1,software,Andrew Vincent and Barnett Waddingham Capital Trustees Limited as Trustees of the Av Executivetrust Funded Unapproved Retirement Scheme,0.918,andrew vincent and barnett waddingham capital trustees as trustees of the av executivetrust funded unapproved retirement scheme,other,tail: hand decision
+ares management,1,1,software,"Ares Management Limited, as Security Agent and Trustee for the Beneficiaries",0.919,Ares,debt_fund,tail: hand decision
+ares management acting,1,1,software,Ares Management Limited Acting as Security Agent and Trustee for the Beneficiaries.,0.919,Ares,debt_fund,tail: hand decision
+avenue house care,1,1,care,Avenue House Care Limited,0.919,avenue house care,unresolved,not identified
+axiscross,1,1,software,Axiscross Limited,0.92,axiscross,unresolved,not identified
+b n medlock,1,1,care,B.N. Medlock.,0.92,b n medlock,individual,tail: hand decision
+bank leumi,1,1,care,Bank Leumi (U.K.) PLC,0.921,bank leumi,bank,rule: bank or building society
+bank of america,1,1,software,"Bank of America, N.A.",0.921,bank of america,bank,rule: bank or building society
+bank of cyprus uk,1,1,care,Bank of Cyprus UK,0.922,bank of cyprus uk,bank,rule: bank or building society
+bauer consumer media,1,1,software,Bauer Consumer Media Limited,0.922,bauer consumer media,other,tail: hand decision
+beechcroft developments,1,1,care,Beechcroft Developments Limited,0.922,beechcroft developments,other,tail: hand decision
+benjamin white,1,1,care,Benjamin White as Security Trustee,0.923,benjamin white,individual,tail: hand decision
+berti investments,1,1,software,Berti Investments Limited,0.923,berti investments,unresolved,not identified
+bhf bank,1,1,care,Bhf-Bank Ag,0.924,bhf bank,bank,rule: bank or building society
+bibby financial services,1,1,software,Bibby Financial Services Limited,0.924,bibby financial services,specialist_nonbank,tail: hand decision
+bic,1,1,software,Bic Limited,0.924,bic,other,tail: hand decision
+biginvest company,1,1,care,Biginvest Company Limited,0.925,biginvest company,unresolved,not identified
+black country reinvestment society,1,1,care,Black Country Reinvestment Society LTD,0.925,black country reinvestment society,specialist_nonbank,tail: hand decision
+blue owl capital corporation,1,1,software,"Blue Owl Capital Corporation, as Collateral Agent",0.926,blue owl capital corporation,unresolved,not identified
+bluebay ireland corporate credit i,1,1,software,Bluebay Ireland Corporate Credit I Limited,0.926,bluebay ireland corporate credit i,debt_fund,tail: hand decision
+blueprint and blueprint,1,1,software,Blueprint (General Partner) Limited and Blueprint (Nominees) Limited,0.927,blueprint and blueprint,unresolved,not identified
+bond s mill estate,1,1,software,Bond's Mill Estate Limited,0.927,bond s mill estate,other,tail: hand decision
+bootstrap europe 2 0,1,1,software,Bootstrap Europe 2.0 Sarl,0.927,bootstrap europe 2 0,debt_fund,tail: hand decision
+bridging trading,1,1,care,Bridging Trading LLP,0.928,bridging trading,unresolved,not identified
+bruntwood 2000 first properties,1,1,software,Bruntwood 2000 First Properties Limited,0.928,bruntwood 2000 first properties,other,tail: hand decision
+capify uk llc,1,1,software,Capify UK Llc,0.929,capify uk llc,specialist_nonbank,tail: hand decision
+capital markets company,1,1,software,The Capital Markets Company (UK) Limited,0.929,capital markets company,other,tail: hand decision
+carnival,1,1,software,Carnival PLC,0.93,carnival,other,tail: hand decision
+carol ann braddick,1,1,software,Carol Ann Braddick as Trustee of Rumbles Restaurants Pension Plan,0.93,carol ann braddick,other,tail: hand decision
+carter thermal industries,1,1,software,Carter Thermal Industries Limited,0.93,carter thermal industries,other,tail: hand decision
+catapult growth fund partnership,1,1,software,Catapult Growth Fund Limited Partnership,0.931,catapult growth fund partnership,sponsor,tail: hand decision
+central tax and trustee planning,1,1,software,Central Tax & Trustee Planning LLP (As Trustee),0.931,central tax and trustee planning,other,tail: hand decision
+centric spv 1,1,1,software,Centric Spv 1 Limited,0.932,centric spv 1,unresolved,not identified
+chartmoor estates,1,1,software,Chartmoor Estates Limited,0.932,chartmoor estates,other,tail: hand decision
+christopher ian farrelly,1,1,software,Christopher Ian Farrelly,0.932,christopher ian farrelly,individual,tail: hand decision
+clydesdale bank public company,1,1,care,Clydesdale Bank Public Limited Company,0.933,Virgin Money,bank,rule: bank group
+clydesdale bank trading as both clydesdale bank and yorkshire bank,1,1,care,Clydesdale Bank PLC (Trading as Both Clydesdale Bank and Yorkshire Bank,0.933,Virgin Money,bank,rule: bank group
+community integrated care,1,1,care,Community Integrated Care,0.934,community integrated care,other,tail: hand decision
+copper markets,1,1,software,Copper Markets (Switzerland) Ag,0.934,copper markets,unresolved,not identified
+country court care homes 3 opco,1,1,care,Country Court Care Homes 3 Opco Limited,0.935,country court care homes 3 opco,other,tail: hand decision
+crestline direct finance l p as secured party,1,1,software,"Crestline Direct Finance, L.P. as Secured Party",0.935,Crestline,debt_fund,tail: hand decision
+curve digital entertainment,1,1,software,Curve Digital Entertainment Limited,0.935,curve digital entertainment,other,tail: hand decision
+cydesdale bank,1,1,care,Cydesdale Bank PLC,0.936,cydesdale bank,bank,rule: bank or building society
+cynergy business finance,1,1,software,Cynergy Business Finance Limited,0.936,cynergy business finance,bank,tail: hand decision
+d j medlock,1,1,care,D.J. Medlock,0.937,d j medlock,individual,tail: hand decision
+darrington healthcare properties,1,1,care,Darrington Healthcare Properties Limited,0.937,darrington healthcare properties,other,tail: hand decision
+david dixon,1,1,software,David Dixon,0.938,david dixon,individual,tail: hand decision
+david mark hunter and barnett waddingham capital trustees as trustees of the dmhexecutive trust funded unapproved retirement scheme,1,1,software,David Mark Hunter and Barnett Waddingham Capital Trustees Limited as Trustees of the Dmhexecutive Trust Funded Unapproved Retirement Scheme,0.938,david mark hunter and barnett waddingham capital trustees as trustees of the dmhexecutive trust funded unapproved retirement scheme,other,tail: hand decision
+denisa services,1,1,software,Denisa Services Limited,0.938,denisa services,unresolved,not identified
+derwent valley property developments,1,1,software,Derwent Valley Property Developments Limited,0.939,derwent valley property developments,other,tail: hand decision
+district bank,1,1,care,District Bank LTD.,0.939,district bank,bank,rule: bank or building society
+eastward capital partners v l p,1,1,software,"Eastward Capital Partners V, L.P.",0.94,Eastward,debt_fund,tail: hand decision
+ecp loanco a,1,1,care,Ecp Loanco a Limited (Registration Number 159308),0.94,ecp loanco a,unresolved,not identified
+eldridge corporate funding llc,1,1,software,Eldridge Corporate Funding Llc as Agent,0.94,eldridge corporate funding llc,debt_fund,tail: hand decision
+emanuel mond,1,1,software,Emanuel Mond,0.941,emanuel mond,individual,tail: hand decision
+engozi,1,1,care,Engozi Limited,0.941,engozi,unresolved,not identified
+enterprise oil,1,1,software,Enterprise Oil Limited,0.942,enterprise oil,other,tail: hand decision
+equity partnerships,1,1,software,Equity Partnerships (Osprey) Limited,0.942,equity partnerships,unresolved,not identified
+eric wright developments,1,1,software,Eric Wright Developments Limited,0.943,eric wright developments,other,tail: hand decision
+esf loans,1,1,care,Esf Loans Limited,0.943,esf loans,unresolved,not identified
+esf loans acting as the security trustee of the secured parties,1,1,care,Esf Loans Limited Acting as the Security Trustee of the Secured Parties,0.943,esf loans acting as the security trustee of the secured parties,agent_trustee,rule: agent/trustee word
+etv capital s a,1,1,software,Etv Capital S.A,0.944,etv capital s a,debt_fund,tail: hand decision
+extec edition,1,1,software,Extec Edition Ag,0.944,extec edition,unresolved,not identified
+first national bank,1,1,care,First National Bank PLC,0.945,first national bank,bank,rule: bank or building society
+flora clifton white,1,1,software,Flora Clifton White,0.945,flora clifton white,individual,tail: hand decision
+folk nominee,1,1,care,Folk Nominee Limited,0.945,folk nominee,unresolved,not identified
+g yukes,1,1,software,G Yukes,0.946,g yukes,individual,tail: hand decision
+geoffrey norman john davis,1,1,care,Geoffrey Norman John Davis,0.946,geoffrey norman john davis,individual,tail: hand decision
+george lightfoot,1,1,software,George Lightfoot as Security Trustee,0.947,george lightfoot,individual,tail: hand decision
+gloucestershire county council,1,1,care,Gloucestershire County Council,0.947,gloucestershire county council,government,rule: public sector word
+goalcycle,1,1,software,Goalcycle Limited,0.948,goalcycle,unresolved,not identified
+golub capital markets llc,1,1,software,Golub Capital Markets Llc,0.948,golub capital markets llc,debt_fund,tail: hand decision
+graham bruce moss,1,1,software,Graham Bruce Moss as Trustee of Rumbles Restaurants Pension Plan,0.948,graham bruce moss,other,tail: hand decision
+graham ransom,1,1,software,Graham Ransom (As Security Trustee),0.949,graham ransom,individual,tail: hand decision
+gretview,1,1,software,Gretview Limited,0.949,gretview,unresolved,not identified
+grove management,1,1,care,Grove Management Limited.,0.95,grove management,unresolved,not identified
+growth lending 2020,1,1,software,Growth Lending 2020 Limited,0.95,Growth Lending,debt_fund,tail: hand decision
+h m read,1,1,care,H M Read,0.951,h m read,individual,tail: hand decision
+habib bank zurich,1,1,care,Habib Bank Zurich PLC,0.951,habib bank zurich,bank,rule: bank or building society
+hammersmith grove nominee no 1 hammersmith grove nominee no 2,1,1,software,"Hammersmith Grove Nominee No.1 Limited, Hammersmith Grove Nominee No.2 Limited",0.951,hammersmith grove nominee no 1 hammersmith grove nominee no 2,other,tail: hand decision
+handelsbanken finans ab,1,1,software,Handelsbanken Finans Ab (Publ),0.952,handelsbanken finans ab,bank,rule: bank or building society
+hercules capital,1,1,software,"Hercules Capital, Inc. as Agent for Itself and the Other Secured Parties.",0.952,hercules capital,debt_fund,tail: hand decision
+hsbc invoice finance,1,1,software,Hsbc Invoice Finance (UK) LTD (the Security Holder),0.953,HSBC,bank,rule: bank group
+industrial lending 2,1,1,software,Industrial Lending 2,0.953,industrial lending 2,unresolved,not identified
+investec bank,1,1,software,Investec Bank PLC as Security Trustee for the Secured Parties,0.953,investec bank,bank,rule: bank or building society
+j isaacs management,1,1,software,J Isaacs Management Limited,0.954,j isaacs management,unresolved,not identified
+j n beasley,1,1,software,J. N. Beasley,0.954,j n beasley,individual,tail: hand decision
+j p morgan chase bank,1,1,software,"J P Morgan Chase Bank, N.A., in Its Capacity as Administrative Agent",0.955,j p morgan chase bank,bank,rule: bank or building society
+j r beasley,1,1,software,J. R. Beasley,0.955,j r beasley,individual,tail: hand decision
+j thorne,1,1,care,J. Thorne,0.956,j thorne,individual,tail: hand decision
+john colwell and adrian otten and rowanmoor trustees,1,1,care,John Colwell and Adrian Otten (As Trustees of the Lender) and Rowanmoor Trustees Limited (as a Trustee of the Lender),0.956,john colwell and adrian otten and rowanmoor trustees,other,tail: hand decision
+john colwell and adrian otten as trustees of the colten development pension scheme,1,1,care,John Colwell and Adrian Otten as Trustees of the Colten Development Pension Scheme,0.956,john colwell and adrian otten as trustees of the colten development pension scheme,other,tail: hand decision
+joseph pearlman,1,1,care,Joseph Pearlman,0.957,joseph pearlman,individual,tail: hand decision
+juice ventures,1,1,software,Juice Ventures Limited,0.957,juice ventures,unresolved,not identified
+konrad czajka,1,1,care,Konrad Czajka (As Security Agent),0.958,konrad czajka,individual,tail: hand decision
+kreos capital vi,1,1,software,Kreos Capital Vi (UK) Limited,0.958,Kreos,debt_fund,tail: hand decision
+kroll trustee services acting,1,1,software,Kroll Trustee Services Limited Acting as Security Agent,0.958,kroll trustee services acting,agent_trustee,rule: agent/trustee word
+l medlock,1,1,care,L. Medlock,0.959,l medlock,individual,tail: hand decision
+lacken construction co,1,1,software,Lacken Construction Co Limited,0.959,lacken construction co,unresolved,not identified
+lancashire mortgage corporation,1,1,software,Lancashire Mortgage Corporation Limited,0.96,lancashire mortgage corporation,specialist_nonbank,tail: hand decision
+lcif,1,1,software,Lcif LLP,0.96,lcif,unresolved,not identified
+liverpool university hospitals nhs foundation trust,1,1,software,Liverpool University Hospitals Nhs Foundation Trust,0.961,liverpool university hospitals nhs foundation trust,government,rule: public sector word
+lloyds bank commercial finance,1,1,software,Lloyds Bank Commercial Finance Limited,0.961,Lloyds Banking Group,bank,rule: bank group
+lloyds tsb commercial finance trading as alex lawrie factors,1,1,software,Lloyds Tsb Commercial Finance Limited Trading as Alex Lawrie Factors,0.961,Lloyds Banking Group,bank,rule: bank group
+lloyds tsb offshore,1,1,software,Lloyds Tsb Offshore Limited,0.962,Lloyds Banking Group,bank,rule: bank group
+lloyds tsbs scotland,1,1,care,Lloyds Tsbs Scotland PLC,0.962,Lloyds Banking Group,bank,rule: bank group
+lms,1,1,software,Lms (City Road) Limited,0.963,lms,other,tail: hand decision
+master fellows and scholars of churchill college in cambridge,1,1,software,The Master Fellows and Scholars of Churchill College in Cambridge,0.963,master fellows and scholars of churchill college in cambridge,other,tail: hand decision
+matrix private equity partners,1,1,software,Matrix Private Equity Partners LLP as Trustee,0.964,matrix private equity partners,sponsor,tail: hand decision
+merseyside special investments mezzanine no 2 acting by its general partner afm merseysidemezzanine,1,1,software,Merseyside Special Investments Mezzanine No 2 Acting by Its General Partner Afm Merseysidemezzanine Limited,0.964,merseyside special investments mezzanine no 2 acting by its general partner afm merseysidemezzanine,government,tail: hand decision
+michael anthony bates,1,1,software,Michael Anthony Bates,0.964,michael anthony bates,individual,tail: hand decision
+michael kristian odling smee and joseph samuel waller,1,1,software,Michael Kristian Odling-Smee and Joseph Samuel Waller,0.965,michael kristian odling smee and joseph samuel waller,individual,tail: hand decision
+michael webber and ronald michael harris,1,1,software,Michael Webber and Ronald Michael Harris,0.965,michael webber and ronald michael harris,individual,tail: hand decision
+mitchell barney,1,1,software,Mitchell Barney,0.966,mitchell barney,individual,tail: hand decision
+mitchell properties,1,1,care,Mitchell Properties Limited,0.966,mitchell properties,other,tail: hand decision
+mr john colwell and mr adrian john otten and rowanmoor trustees as trustees of the colten developments pension scheme,1,1,care,Mr John Colwell and Mr Adrian John Otten and Rowanmoor Trustees Limited as Trustees of the Colten Developments Pension Scheme,0.966,mr john colwell and mr adrian john otten and rowanmoor trustees as trustees of the colten developments pension scheme,other,tail: hand decision
+mr m p elson,1,1,software,Mr M. P. Elson (As Trustee),0.967,mr m p elson,individual,tail: hand decision
+natwest markets,1,1,care,Natwest Markets PLC,0.967,NatWest Group,bank,tail: hand decision
+newable management services,1,1,software,Newable Management Services LTD,0.968,newable management services,specialist_nonbank,tail: hand decision
+nigel gregg fasey,1,1,software,Nigel Gregg Fasey,0.968,nigel gregg fasey,individual,tail: hand decision
+nilerace,1,1,care,Nilerace Limited,0.969,nilerace,unresolved,not identified
+nordea bank abp nuf,1,1,software,Nordea Bank Abp Nuf,0.969,nordea bank abp nuf,bank,rule: bank or building society
+oakmede developments,1,1,care,Oakmede Developments Limited,0.969,oakmede developments,other,tail: hand decision
+ocorian trustee,1,1,software,Ocorian Trustee (UK) Limited (Trading as Nordic Trustee (UK)) as Security Agent (as Defined in the Instrument Uploaded in This Filing),0.97,ocorian trustee,agent_trustee,tail: hand decision
+ohi uk lender llc,1,1,care,Ohi UK Lender Llc,0.97,Omega Healthcare,property_investor,tail: hand decision
+operational real estate finance,1,1,care,Operational Real Estate Finance LLP,0.971,operational real estate finance,unresolved,not identified
+oxane partners,1,1,care,Oxane Partners Limited,0.971,oxane partners,unresolved,not identified
+p and o property holdings,1,1,software,P&O Property Holdings Limited,0.971,p and o property holdings,other,tail: hand decision
+palatine gc holdings,1,1,software,Palatine Gc Holdings Limited,0.972,palatine gc holdings,sponsor,tail: hand decision
+paul bignell,1,1,care,Paul Bignell,0.972,paul bignell,individual,tail: hand decision
+peac business finance,1,1,software,Peac Business Finance Limited,0.973,peac business finance,specialist_nonbank,tail: hand decision
+pfc asset management and pfc nominees,1,1,software,Pfc Asset Management Limited and Pfc Nominees Limited,0.973,pfc asset management and pfc nominees,unresolved,not identified
+phoenix equity partners,1,1,software,Phoenix Equity Partners Limited as Security Trustee for the Secured Parties,0.974,Phoenix Equity,sponsor,tail: hand decision
+porthaven properties,1,1,care,Porthaven Properties (Bm) Limited,0.974,porthaven properties,other,tail: hand decision
+project finance investments,1,1,care,Project Finance Investments (UK) Limited as Security Agent,0.974,project finance investments,agent_trustee,tail: hand decision
+qtec analytics,1,1,software,Qtec Analytics Limited,0.975,qtec analytics,unresolved,not identified
+quercus,1,1,care,Quercus (Nursing Homes) Limited,0.975,quercus,other,tail: hand decision
+quercus nursing homes 2001 and quercus nursing homes 2001,1,1,care,Quercus Nursing Homes 2001 (A) Limited & Quercus Nursing Homes 2001 (B) Limited,0.976,quercus nursing homes 2001 and quercus nursing homes 2001,other,tail: hand decision
+r d read,1,1,care,R D Read,0.976,r d read,individual,tail: hand decision
+r nicholson,1,1,care,R. Nicholson,0.977,r nicholson,individual,tail: hand decision
+rbs invoice finance,1,1,software,Rbs Invoice Finance Limited,0.977,NatWest Group,bank,tail: hand decision
+red italia s r l,1,1,software,Red Italia S.R.L.,0.977,red italia s r l,unresolved,not identified
+refinitiv uk parent,1,1,software,Refinitiv UK Parent Limited,0.978,refinitiv uk parent,other,tail: hand decision
+refinitiv us llc,1,1,software,Refinitiv Us Llc,0.978,refinitiv us llc,other,tail: hand decision
+revera uk holdings,1,1,care,Revera UK Holdings LTD,0.979,revera uk holdings,other,tail: hand decision
+riverside acceleration capital fund ii l p,1,1,software,"Riverside Acceleration Capital Fund Ii, L.P.",0.979,riverside acceleration capital fund ii l p,debt_fund,tail: hand decision
+royal bank of scotland commercial services,1,1,software,The Royal Bank of Scotland Commercial Services Limited,0.979,NatWest Group,bank,rule: bank group
+royscot trust,1,1,software,Royscot Trust PLC,0.98,NatWest Group,bank,tail: hand decision
+santander asset finance,1,1,software,Santander Asset Finance PLC,0.98,Santander,bank,rule: bank group
+santander uk and its successors and assignees,1,1,software,Santander UK PLC and Its Successors and Assignees,0.981,Santander,bank,rule: bank group
+santander uk for the time being,1,1,software,Santander UK PLC (As Security Trustee for Each of Santander UK PLC and Its Subsidiary Undertakings (as Defined in S1162 of the Companies Act 2006) for the Time Being),0.981,Santander,bank,rule: bank group
+scottish enterprise,1,1,software,Scottish Enterprise,0.982,scottish enterprise,government,tail: hand decision
+scottish national investment bank,1,1,software,Scottish National Investment Bank PLC,0.982,scottish national investment bank,bank,rule: bank or building society
+secure trust bank,1,1,software,Secure Trust Bank PLC,0.982,secure trust bank,bank,rule: bank or building society
+seek holdings,1,1,care,Seek Holdings Limited,0.983,seek holdings,unresolved,not identified
+sellers,1,1,care,The Sellers (For Details Please Refer to Form 395),0.983,sellers,individual,tail: hand decision
+sipl finco trs s r l,1,1,care,Sipl Finco Trs S.À R.L. as Security Agent,0.984,sipl finco trs s r l,unresolved,not identified
+sixth street specialty lending,1,1,software,"Sixth Street Specialty Lending, Inc. as Security Trustee for Itself and the Other Secured Parties (As Defined in the Instrument)",0.984,Sixth Street,debt_fund,tail: hand decision
+sixth street specialty lending europe ii advisors,1,1,software,"Sixth Street Specialty Lending Europe Ii Advisors, LTD",0.984,Sixth Street,debt_fund,tail: hand decision
+skyred international s r l,1,1,care,Skyred International S.À.R.L.,0.985,skyred international s r l,unresolved,not identified
+social and sustainable housing ii holdco,1,1,care,Social and Sustainable Housing Ii Holdco Limited,0.985,social and sustainable housing ii holdco,unresolved,not identified
+st helens and knowsley health authority,1,1,care,St Helens and Knowsley Health Authority,0.986,st helens and knowsley health authority,government,rule: public sector word
+starlight investments,1,1,software,Starlight Investments LTD,0.986,starlight investments,unresolved,not identified
+stephen nicholas kingan,1,1,software,Stephen Nicholas Kingan,0.987,stephen nicholas kingan,individual,tail: hand decision
+stephen rau stone and dawn sandra stone,1,1,care,Stephen Rau Stone and Dawn Sandra Stone,0.987,stephen rau stone and dawn sandra stone,individual,tail: hand decision
+stratton 3 and stratton 4,1,1,software,Stratton 3 Limited and Stratton 4 Limited,0.987,stratton 3 and stratton 4,unresolved,not identified
+suffolk mercantile,1,1,care,Suffolk Mercantile PLC,0.988,suffolk mercantile,unresolved,not identified
+svenska handelsbanken ab,1,1,care,Svenska Handelsbanken Ab (Publ),0.988,svenska handelsbanken ab,bank,rule: bank or building society
+tc security trustee acting as the security trustee of the secured parties,1,1,care,Tc Security Trustee Limited Acting as the Security Trustee of the Secured Parties,0.989,tc security trustee acting as the security trustee of the secured parties,agent_trustee,rule: agent/trustee word
+tenzing private equity,1,1,software,Tenzing Private Equity LLP as Security Agent,0.989,tenzing private equity,sponsor,tail: hand decision
+theta properties,1,1,software,Theta Properties Limited,0.99,theta properties,other,tail: hand decision
+threadneedle pensions,1,1,software,Threadneedle Pensions Limited,0.99,threadneedle pensions,other,tail: hand decision
+time invoice finance,1,1,care,Time Invoice Finance Limited,0.99,time invoice finance,specialist_nonbank,tail: hand decision
+timothy bignell,1,1,care,Timothy Bignell,0.991,timothy bignell,individual,tail: hand decision
+toronto dominion bank,1,1,software,The Toronto-Dominion Bank,0.991,toronto dominion bank,bank,rule: bank or building society
+tr finance,1,1,care,Tr Finance Limited,0.992,tr finance,unresolved,not identified
+triangelo,1,1,care,Triangelo Limited,0.992,triangelo,unresolved,not identified
+trinity venture capital,1,1,software,Trinity Venture Capital Limited,0.992,trinity venture capital,sponsor,tail: hand decision
+u s bank trustees,1,1,care,U.S. Bank Trustees Limited (As Security Agent),0.993,u s bank trustees,bank,rule: bank or building society
+ulster bank ireland,1,1,software,Ulster Bank Ireland Limited,0.993,ulster bank ireland,bank,rule: bank or building society
+ulster bank ireland designated activity company,1,1,software,Ulster Bank Ireland Designated Activity Company,0.994,ulster bank ireland designated activity company,bank,rule: bank or building society
+universal studios holdings,1,1,software,Universal Studios Holdings (UK) Limited,0.994,universal studios holdings,other,tail: hand decision
+valerie bignell,1,1,care,Valerie Bignell,0.995,valerie bignell,individual,tail: hand decision
+venaglass,1,1,software,Venaglass Limited,0.995,venaglass,unresolved,not identified
+vernalis,1,1,software,Vernalis Limited,0.995,vernalis,other,tail: hand decision
+volkswagen bank trading as volkswagen bank united kingdom branch,1,1,software,Volkswagen Bank Gmbh Trading as Volkswagen Bank United Kingdom Branch,0.996,volkswagen bank trading as volkswagen bank united kingdom branch,bank,rule: bank or building society
+w lawrence,1,1,care,W. Lawrence,0.996,w lawrence,individual,tail: hand decision
+wbp,1,1,software,Wbp (Rosebery Avenue) Limited,0.997,wbp,other,tail: hand decision
+well fargo foothill,1,1,software,"Well Fargo Foothill,Inc",0.997,Wells Fargo,bank,tail: hand decision
+wells fargo foothill,1,1,software,"Wells Fargo Foothill, Inc (The Agent)",0.997,Wells Fargo,bank,tail: hand decision
+west pac banking corporation,1,1,care,West PAC Banking Corporation,0.998,west pac banking corporation,bank,rule: bank or building society
+williams and glyn s bank,1,1,software,Williams & Glyn's Bank PLC,0.998,williams and glyn s bank,bank,rule: bank or building society
+willowbrook properties holdco,1,1,care,Willowbrook Properties Holdco Limited as Security Trustee,0.999,willowbrook properties holdco,other,tail: hand decision
+xerox,1,1,software,Xerox Limited,0.999,xerox,other,tail: hand decision
+xplorer capital fund v,1,1,software,"Xplorer Capital Fund V, LP",1.0,xplorer capital fund v,sponsor,tail: hand decision
+zatyba holdings,1,1,software,Zatyba Holdings Limited,1.0,zatyba holdings,unresolved,not identified
