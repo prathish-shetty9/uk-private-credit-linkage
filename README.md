@@ -95,7 +95,7 @@ The Companies House bulk file is not included because it is too large. Download 
 ## Setup
 
 ```bash
-git clone https://github.com/<HeXlo-9>/uk-private-credit-linkage.git
+git clone https://github.com/prathish-shetty9/uk-private-credit-linkage.git
 cd uk-private-credit-linkage
 pip install -r requirements.txt
 ```
